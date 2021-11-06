@@ -1,0 +1,20 @@
+{
+  "name": "bank_track",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megwatson88/bank_track.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megwatson88/bank_track/issues"
+  },
+  "homepage": "https://github.com/megwatson88/bank_track#readme"
+}
